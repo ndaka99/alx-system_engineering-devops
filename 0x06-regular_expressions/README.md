@@ -1,1 +1,1 @@
-0x06-regular_expressions_project
+0x06-regular_expressions projects
